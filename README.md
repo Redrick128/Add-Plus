@@ -6,7 +6,7 @@
 ## Variable >    InputAll = input()
 
 ## If/Elif
-    elif AddPlus == "Add Plus":
+    if AddPlus == "Add Plus":
       print("Welcome To Add Plus Ver 1.0 ")
       AddPlusN1 = input("N1 Here > ")
       AddPlusN2 = input("N2 Over her > ")

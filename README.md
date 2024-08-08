@@ -1,9 +1,9 @@
 # Add-Plus
 
-### To set up Add Plus Copy the code put first grab the variable paste it on top of the loop second Grab the if statement and put it below inside the loop
-## Python is used withvisual studio
+### To set up Add Plus Copy the code put first Grab the if statement and put it below inside the loop
+## Python is used with visual studio
 
-## Variable > AddPlus = input()
+## Variable >    InputAll = input()
 
 ## If/Elif
     elif AddPlus == "Add Plus":

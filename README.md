@@ -2,7 +2,6 @@
 
 ### To set up Add Plus Copy the code put first Grab the if statement and put it below inside the loop
 ## Python is used with visual studio
-## Put COnfirmPlus on top were the InputAll Variable Is Located In The Code
 
 ## Variable >    InputAll = input()
 
@@ -14,8 +13,6 @@
 
       AddPlusN1 = int(AddPlusN1)
       AddPlusN2 = int(AddPlusN2)
-
-      ConfirmPLus = input("Comfirm Operation Y/N > ")
 
       elif ConfirmPLus == "Y":
         print(AddPlusN1+AddPlusN2)

@@ -2,6 +2,7 @@
 
 ### To set up Add Plus Copy the code put first Grab the if statement and put it below inside the loop
 ## Python is used with visual studio
+## Put COnfirmPlus on top were the InputAll Variable Is Located In The Code
 
 ## Variable >    InputAll = input()
 
